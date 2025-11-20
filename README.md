@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0c0b983d-3472-4c19-8825-b9186fe054b1" /># Exp 9: AI-Based Video Generation for Open-Heart Surgery Simulation
+# Exp 9: AI-Based Video Generation for Open-Heart Surgery Simulation
 ##### Date: 08-11-2025
 ##### Reg. No.: 212223040252
 
